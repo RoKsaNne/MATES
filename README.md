@@ -1,5 +1,6 @@
 # MATES
 A Deep Learning-Based Model for Quantifying Transposable Elements in Single-Cell Sequencing Data
+For the latest updates, view https://github.com/mcgilldinglab/MATES.
 
 ## Overview
 <img title="Model Overview" alt="Alt text" src="/figures/Model-figure-01.png">
